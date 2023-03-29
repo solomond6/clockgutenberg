@@ -1,0 +1,4 @@
+19-03-2022 13:19:28 - ERROR - 7.4.1 - 5.5 MB/1 GB - webmaster > Missing block.php file in C:/wamp64/www/cocktales/wp-content/plugins/newsletter/emails/blocks (1) - 
+19-03-2022 13:19:28 - ERROR - 7.4.1 - 5.5 MB/1 GB - webmaster > Missing block.php file in C:/wamp64/www/cocktales/wp-content/plugins/newsletter/emails (1) - 
+19-03-2022 13:19:28 - ERROR - 7.4.1 - 4.4 MB/1 GB - webmaster > Missing block.php file in C:/wamp64/www/cocktales/wp-content/plugins/newsletter/emails/blocks (1) - 
+19-03-2022 13:19:28 - ERROR - 7.4.1 - 4.4 MB/1 GB - webmaster > Missing block.php file in C:/wamp64/www/cocktales/wp-content/plugins/newsletter/emails (1) - 

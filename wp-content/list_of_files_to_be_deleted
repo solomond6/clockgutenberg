@@ -1,0 +1,10 @@
+.
+./plugins/ultimate-social-media-icons/.gitignore
+./themes/bootscore-main/.gitignore
+./themes/twentytwenty/.stylelintrc.json
+./themes/twentytwentyone/.stylelintignore
+./themes/twentytwentyone/.stylelintrc-css.json
+./themes/twentytwentyone/.stylelintrc.json
+./uploads/wc-logs/.htaccess
+./uploads/woocommerce_uploads/.htaccess
+./uploads/wpcf7_uploads/.htaccess

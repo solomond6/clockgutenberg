@@ -1,0 +1,11 @@
+.
+./.htaccess
+./wp-content/plugins/ultimate-social-media-icons/.gitignore
+./wp-content/themes/bootscore-main/.gitignore
+./wp-content/themes/twentytwenty/.stylelintrc.json
+./wp-content/themes/twentytwentyone/.stylelintignore
+./wp-content/themes/twentytwentyone/.stylelintrc-css.json
+./wp-content/themes/twentytwentyone/.stylelintrc.json
+./wp-content/uploads/wc-logs/.htaccess
+./wp-content/uploads/woocommerce_uploads/.htaccess
+./wp-content/uploads/wpcf7_uploads/.htaccess
